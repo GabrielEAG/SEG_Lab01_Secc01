@@ -1,0 +1,25 @@
+¿Cuál es el punto más débil de PGP?
+R// La seguridad depende de que los usuarios intercambien correctamente las claves pública 
+y un error en la administración de estas claves, como una clave corrupta o perdida, 
+o el uso incorrecto del software, puede crear vulnerabilidades. 
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+R//Es conveniente usar solo cifrado simétrico cuando se prioriza la velocidad y eficiencia, 
+especialmente al cifrar grandes volúmenes de datos como bases de datos o archivos
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+1. Planificación: Se definen los requisitos de seguridad y se identifican las implicaciones de
+seguridad en la aqrquitectura y el negocio desde el principio.
+
+2. Diseño: Se elaboran modelos de amenazas, se evalúa el impacto de la seguridad en las 
+decisiones de diseño y se implementan medidas de seguridad en la arquitectura del software. 
+
+3. Implementación: Los desarrolladores siguen prácticas de codificación segura, y se integran 
+las consideraciones de seguridad en la escritura del código para prevenir vulnerabilidades.
+
+4. Pruebas: Se realizan pruebas de seguridad continuas, como pruebas de penetración, 
+revisiones de código y análisis de vulnerabilidades, para identificar fallos y riesgos en el 
+software. 
+
+5. Se sigue un enfoque de seguridad para el lanzamiento y la gestión del software desplegado, 
+asegurando un mantenimiento y actualización seguros a lo largo del tiempo.
